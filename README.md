@@ -37,7 +37,7 @@ Currently focused on interactive 3D product experiences with Three.js, and on Fl
      drag it into any GitHub issue comment to get a hosted URL, then paste that URL below
      in place of the placehold.co link. This is the single strongest thing you can add. -->
 <div align="center">
-  <img width="90%" src="https://placehold.co/1200x600/0B0F1A/00E5A0/png?text=DEMO+GIF+COMING+SOON" alt="3D configurator demo" />
+ <img width="90%" src="https://raw.githubusercontent.com/thisara897/thisara897/main/demo.gif" alt="3D configurator demo" />
 </div>
 
 **What's under the hood**
